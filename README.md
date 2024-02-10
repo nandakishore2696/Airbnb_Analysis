@@ -32,3 +32,8 @@ the data.
 
 8. Build a comprehensive dashboard using Power BI, combining
 various visualizations to present key insights from the analysis
+
+
+![Screenshot 2024-02-10 114800](https://github.com/nandakishore2696/Airbnb_Analysis/assets/139628432/f1b00d8a-acad-42d1-bf9b-591be1dc9e65)
+
+![Screenshot 2024-02-10 114806](https://github.com/nandakishore2696/Airbnb_Analysis/assets/139628432/53284a69-06ea-42a5-a3c7-93f138e06391)
